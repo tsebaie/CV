@@ -1,0 +1,27 @@
+
+
+* {
+    box-sizing: border-box;
+}
+
+.row {
+    display: flex;
+}
+.column {
+    flex: 50%;
+    padding: 10px;
+    height: 1000px; 
+    background-image: url(../assets/coding-curriculum-criticism.png);
+    color: white;
+    font-weight: bold;
+}
+.columna {
+    flex: 20%;
+    padding: 10px;
+    height: 1000px; 
+    background-image: url(../assets/Coding-body-image-.png);
+    color: white;
+    font-weight: bolder;
+    
+
+}
